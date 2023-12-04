@@ -2,6 +2,19 @@
     text-align: center;
     color: #FC9844;
 }
+.recipe-title {
+    text-align: justify;
+}
+.text-with-image {
+    text-align: justify;
+    width: 400px;
+}
+.image {
+    height:auto;
+    width: 400px;
+    display: block;
+    margin: 0 auto;
+}
 img {
     height:auto;
     width: 400px;

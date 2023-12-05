@@ -3,17 +3,21 @@
     color: #FC9844;
 }
 .recipe-title {
-    text-align: justify;
+    width: 50px;
+    text-align: center;
+    padding: 10px;
 }
 .text-with-image {
-    text-align: justify;
-    width: 400px;
+    display: inline-block;
+    text-align: center;
+    width: 200px;
+    margin: 10px 40px;
 }
 .image {
     height:auto;
-    width: 400px;
+    width: 200px;
     display: block;
-    margin: 0 auto;
+    margin-bottom: 4px;
 }
 img {
     height:auto;
